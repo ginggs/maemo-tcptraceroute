@@ -1,3 +1,8 @@
+tcptraceroute (1.5beta7+debian-4maemo1) freemantle; urgency=low
+  * Packaged for Maemo
+
+ -- Graham Inggs <graham@nerve.org.za> Sun, 11 Sep 2011 00:30:00 +0200
+
 tcptraceroute (1.5beta7+debian-4) unstable; urgency=low
 
   * [c22350e] New maintainers, thanks to Daniel Baumann for the prior

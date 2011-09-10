@@ -1,7 +1,8 @@
 Source: tcptraceroute
 Section: net
 Priority: optional
-Maintainer: Giuseppe Iuculano <giuseppe@iuculano.it>
+Maintainer: Graham Inggs <graham@nerve.org.za>
+XSBC-Original-Maintainer: Giuseppe Iuculano <giuseppe@iuculano.it>
 Uploaders: Martin Zobel-Helas <zobel@debian.org>
 Build-Depends: debhelper (>= 7), autotools-dev, libpcap0.8-dev, libnet1-dev
 Standards-Version: 3.8.3
