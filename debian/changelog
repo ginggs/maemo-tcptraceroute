@@ -1,3 +1,9 @@
+tcptraceroute (1.5beta7+debian-4maemo4) freemantle; urgency=low
+
+  * Upgraded source format to 3.0 (quilt)
+
+ -- Graham Inggs <graham@nerve.org.za> Sat, 14 Jul 2012 14:27:00 +0200
+
 tcptraceroute (1.5beta7+debian-4maemo3) freemantle; urgency=low
 
   * Added CLI icon, updated Section and Description
