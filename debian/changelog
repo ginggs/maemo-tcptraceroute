@@ -1,26 +1,32 @@
+tcptraceroute (1.5beta7+debian-4maemo5) UNRELEASED; urgency=low
+
+  * Fix up dates in d/changelog
+
+ -- Graham Inggs <graham@nerve.org.za>  Sun, 01 Sep 2013 17:34:31 +0200
+
 tcptraceroute (1.5beta7+debian-4maemo4) freemantle; urgency=low
 
   * Upgraded source format to 3.0 (quilt)
 
- -- Graham Inggs <graham@nerve.org.za> Sat, 14 Jul 2012 14:27:00 +0200
+ -- Graham Inggs <graham@nerve.org.za>  Sat, 14 Jul 2012 14:27:00 +0200
 
 tcptraceroute (1.5beta7+debian-4maemo3) freemantle; urgency=low
 
   * Added CLI icon, updated Section and Description
 
- -- Graham Inggs <graham@nerve.org.za> Tue, 20 Sep 2011 19:15:00 +0200
+ -- Graham Inggs <graham@nerve.org.za>  Tue, 20 Sep 2011 19:15:00 +0200
 
 tcptraceroute (1.5beta7+debian-4maemo2) freemantle; urgency=low
 
   * Uncommented lines accidentally left commented in main.c
 
- -- Graham Inggs <graham@nerve.org.za> Tue, 13 Sep 2011 22:40:00 +0200
+ -- Graham Inggs <graham@nerve.org.za>  Tue, 13 Sep 2011 22:40:00 +0200
 
 tcptraceroute (1.5beta7+debian-4maemo1) freemantle; urgency=low
 
   * Packaged for Maemo
 
- -- Graham Inggs <graham@nerve.org.za> Sun, 11 Sep 2011 00:30:00 +0200
+ -- Graham Inggs <graham@nerve.org.za>  Sun, 11 Sep 2011 00:30:00 +0200
 
 tcptraceroute (1.5beta7+debian-4) unstable; urgency=low
 
